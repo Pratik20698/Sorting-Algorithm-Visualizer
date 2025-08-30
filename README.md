@@ -63,9 +63,5 @@ Simply double-click `index.html` to open in your browser (some features may be l
 - Safari 12+
 - Edge 79+
 
-## License
-
-MIT License - feel free to use for educational purposes!
-
-https://pratik20698.github.io/Sorting-Algorithm-Visualizer/
+Demo:- https://pratik20698.github.io/Sorting-Algorithm-Visualizer/
 
